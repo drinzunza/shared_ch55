@@ -1,6 +1,6 @@
 # Git and GitHub Cheat Sheet
 
-## 🧠 Overview
+## 🧠 Overview s
 
 * **Git** is a version control system for tracking code changes.
 * **GitHub** is a platform to host and collaborate on Git repositories.

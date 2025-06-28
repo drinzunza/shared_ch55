@@ -34,3 +34,17 @@ git push
 - go back to main branch
 - pull the latest origin->main
 - create a new branch for new functionality
+
+
+
+
+
+# Steps fo fix Merge Issues/Conflicts
+
+- Go back to main
+- pull
+- Go back to your feature branch
+- git merge main
+- You will get the issues
+- fix them
+- commit and push
