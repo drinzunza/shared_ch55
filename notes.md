@@ -7,6 +7,11 @@
 git checkout <name>
 
 
+# List local branhces
+git branch
+use Q to quit
+
+
 # Create a commit
 git add -A
 git commit -m "ANY MESSAGE HERE"
