@@ -4,6 +4,12 @@
 - git checkout -b <name>
 
 
+# Create a commit
+git add -A
+git commit -m "ANY MESSAGE HERE"
+
+
+
 # Check your branch
 - git status
 - left bottom corner on VS code
