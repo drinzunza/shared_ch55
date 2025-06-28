@@ -1,6 +1,6 @@
 # Git and GitHub Cheat Sheet
 
-## 🧠 Overview
+## 🧠 Overview s
 
 * **Git** is a version control system for tracking code changes.
 * **GitHub** is a platform to host and collaborate on Git repositories.
@@ -15,7 +15,7 @@
 
 Git is a **Version Control System (VCS)** that lets you:
 
-* Save snapshots of your project over time
+* Save snapshots of your project over time!
 * Reference any past version
 * Experiment safely using branches
 
