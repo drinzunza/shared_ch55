@@ -16,6 +16,9 @@ use Q to quit
 git add -A
 git commit -m "ANY MESSAGE HERE"
 
+# Push a branch
+git push 
+(will give you an error, and the full command to copy and paste)
 
 
 # Check your branch
