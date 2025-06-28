@@ -15,7 +15,7 @@
 
 Git is a **Version Control System (VCS)** that lets you:
 
-* Save snapshots of your project over time
+* Save snapshots of your project over time!
 * Reference any past version
 * Experiment safely using branches
 
