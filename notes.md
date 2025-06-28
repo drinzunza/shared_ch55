@@ -3,6 +3,9 @@
 - pull the latest from main
 - git checkout -b <name>
 
+# Change branches
+git checkout <name>
+
 
 # Create a commit
 git add -A
