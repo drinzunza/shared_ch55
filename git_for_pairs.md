@@ -7,7 +7,7 @@ Git for Pairs
 
 ⸻
 
-📚 Vocabulary!*
+📚 Vocabulary!* ? Creating a Merge Conflict
 	•	Merge Conflict – Conflicting changes on the same line or file
 	•	Pull Request (PR) – Propose merging one branch into another
 	•	Clone – Download a remote repo to your local machine
